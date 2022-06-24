@@ -9,9 +9,14 @@ function Counter({ setCount, count }: { count: number; setCount: Function }) {
 
   return (
     <p>
-      <button onClick={() => setCount((counter: number) => counter + 1)}>
-        count is: {count}
+      <button
+        data-testid="increase"
+        onClick={() => setCount((counter: number) => counter + 1)}
+      >
+        Increase
       </button>
+
+      <span data-testid="counter">{count}</span>
     </p>
   );
 }
