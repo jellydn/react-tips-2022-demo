@@ -880,7 +880,7 @@
     "@swc/core-win32-ia32-msvc" "1.2.208"
     "@swc/core-win32-x64-msvc" "1.2.208"
 
-"@swc/jest@^0.2.21":
+"@swc/jest@0.2.21":
   version "0.2.21"
   resolved "https://registry.yarnpkg.com/@swc/jest/-/jest-0.2.21.tgz#e8c4e234016a914f4cfbb7d75844860a250c1d1c"
   integrity sha512-/+NcExiZbxXANNhNPnIdFuGq62CeumulLS1bngwqIXd8H7d96LFUfrYzdt8tlTwLMel8tFtQ5aRjzVkyOTyPDw==
