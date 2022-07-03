@@ -3855,10 +3855,10 @@ jest-pnp-resolver@^1.2.2:
   resolved "https://registry.yarnpkg.com/jest-pnp-resolver/-/jest-pnp-resolver-1.2.2.tgz#b704ac0ae028a89108a4d040b3f919dfddc8e33c"
   integrity sha512-olV41bKSMm8BdnuMsewT4jqlZ8+3TCARAXjZGT9jcoSnrfUnRCqnMoF9XEeoWjbzObpqF9dRhHQj0Xb9QdF6/w==
 
-jest-preview@0.2.5:
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/jest-preview/-/jest-preview-0.2.5.tgz#69670e1255a940ecfc95f8f39db89c3d44d4a8f6"
-  integrity sha512-zEg/lSFqzQLO3efdYkCUazxMPifpZHa9KIQ+dPUnUP+Ib2BSDvDAJPPzaocaL01t54xa69CI+N5G//6q4N7nJA==
+jest-preview@0.2.6:
+  version "0.2.6"
+  resolved "https://registry.yarnpkg.com/jest-preview/-/jest-preview-0.2.6.tgz#278d6970e2ab3b92870de1bb044da98e063bd731"
+  integrity sha512-Qk3Ps61qVuRMytGeudRB1CyTott+naz7wS/9UF157DACEUZbZqU8jopRIBx2GD6msbsV5PtZb18Pe/7LEkueHA==
   dependencies:
     camelcase "^6.3.0"
     chalk "^4.1.2"
