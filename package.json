@@ -16,7 +16,7 @@
     "*.{js,css,md}": "prettier --write"
   },
   "dependencies": {
-    "@swc/core": "1.2.245",
+    "@swc/core": "1.2.246",
     "@swc/jest": "0.2.22",
     "react": "18.2.0",
     "react-dom": "18.2.0",
