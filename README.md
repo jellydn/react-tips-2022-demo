@@ -10,6 +10,8 @@
 
 [![IT Man - Tip #21 - My top 3 tools for ReactJS in 2022 [Vietnamese]](https://i.ytimg.com/vi/rkgSxUaFfnY/hqdefault.jpg)](https://www.youtube.com/watch?v=rkgSxUaFfnY)
 
+[![IT Man - Tip #27 - LocatorJs - Speed up your web development [Vietnamese]](https://i.ytimg.com/vi/9hHpOtDGK_E/hqdefault.jpg)](https://www.youtube.com/watch?v=9hHpOtDGK_E)
+
 ## Tips for ReactJs in 2022
 
 ### 1.useTilg
@@ -29,6 +31,13 @@ https://previewjs.com/
 https://github.com/nvh95/jest-preview
 
 Debug your Jest tests. Effortlessly.🛠🖼
+
+### 4. LocatorJs
+
+https://www.locatorjs.com/
+
+Click on a component to go to its code
+
 
 ## Install
 
