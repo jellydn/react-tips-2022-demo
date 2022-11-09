@@ -1,15 +1,14 @@
 {
   "extends": [
-    "config:base"
+    "config:base",
+    "group:allNonMajor",
+    ":pinAllExceptPeerDependencies"
   ],
-  "packageRules": [
-    {
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-      "automerge": true
-    },
-    {
-      "matchDepTypes": ["devDependencies"],
-      "automerge": true
-    }
-  ]
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "automerge": true,
+  "major": {
+    "automerge": false
+  }
 }
