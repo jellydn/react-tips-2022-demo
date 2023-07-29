@@ -1,17 +1,26 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import useTilg from "tilg";
 
 import "./App.css";
 import logo from "./logo.svg";
 
-function Counter({ setCount, count }: { count: number; setCount: Function }) {
+function Counter({
+  setCount,
+  count,
+}: {
+  readonly count: number;
+  readonly setCount: (count: number) => void;
+}) {
   useTilg();
 
   return (
     <p>
       <button
+        type="button"
         data-testid="increase"
-        onClick={() => setCount((counter: number) => counter + 1)}
+        onClick={() => {
+          setCount(count + 1);
+        }}
       >
         Increase
       </button>

@@ -1,11 +1,9 @@
 module.exports = {
-  extends: ["productsway"],
+  root: true,
+  env: { browser: true, es2020: true },
+  extends: ["productsway/react"],
+  ignorePatterns: ["dist", ".eslintrc.cjs", "vite.config.ts"],
   parserOptions: {
-    project: "./tsconfig.json",
-  },
-  rules: {
-    "react/jsx-filename-extension": 0,
-    "import/extensions": 0,
-    "import/no-extraneous-dependencies": 0,
+    project: ["./tsconfig.json", "./tsconfig.node.json"],
   },
 };
