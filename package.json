@@ -36,7 +36,7 @@
     "@vitejs/plugin-react": "4.0.4",
     "cypress": "12.17.3",
     "eslint": "8.46.0",
-    "eslint-config-productsway": "1.1.1",
+    "eslint-config-productsway": "1.2.0",
     "husky": "8.0.3",
     "jest": "29.6.2",
     "jest-environment-jsdom": "29.6.2",
