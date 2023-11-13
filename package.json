@@ -31,8 +31,8 @@
     "@types/jest": "29.5.8",
     "@types/react": "18.2.37",
     "@types/react-dom": "18.2.15",
-    "@typescript-eslint/eslint-plugin": "6.10.0",
-    "@typescript-eslint/parser": "6.10.0",
+    "@typescript-eslint/eslint-plugin": "6.11.0",
+    "@typescript-eslint/parser": "6.11.0",
     "@vitejs/plugin-react": "4.1.1",
     "cypress": "12.17.4",
     "eslint": "8.53.0",
@@ -43,7 +43,7 @@
     "jest-preview": "0.3.1",
     "lint-staged": "13.3.0",
     "npm-run-all": "4.1.5",
-    "prettier": "3.0.3",
+    "prettier": "3.1.0",
     "typescript": "5.2.2",
     "vite": "4.5.0"
   }
